@@ -10098,6 +10098,11 @@ header.masthead {
   background-position: center center;
   background-size: cover;
 }
+header.masthead .masthead-overlay {
+  background: rgba(0,0,0,.05);
+  height:100%;
+  width:100%;
+}
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
